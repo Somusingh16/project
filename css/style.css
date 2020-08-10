@@ -1,0 +1,76 @@
+.demo
+{
+height:200px;
+width:400px;
+background-color:red;
+text-color:blue;
+border:2px solid black;
+border-radius:20px;
+}
+
+h1.abc {
+color:blue;
+}
+
+.abc{
+background-color:pink; 
+height:100px;
+
+
+
+}
+/* table ccs here*/
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: red;
+}
+
+
+.demo-span{
+text-color:black;
+background-color:yellow;
+width:200px;
+border:1px solid black;
+
+}
+
+
+
+.ss1
+{
+height:150px;
+width:200px;
+color:blue;
+background-color:green;
+border:2px solid yellow;
+margin-left:80px;
+}
+	
+p{
+background:red;
+}
+
+
+h1{
+background:blue;
+}
+
+h3{
+	background-color:red;
+	color:white;
+}
+body {
+	background-color:green;
+}
